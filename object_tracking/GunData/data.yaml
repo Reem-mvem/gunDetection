@@ -1,0 +1,7 @@
+# GunData/data.yaml
+path: GunData         # root dataset folder
+train: C:\Users\reem2\Desktop\openCv\object_tracking\GunData\images\train   # training images
+val: C:\Users\reem2\Desktop\openCv\object_tracking\GunData\images\val       # validation images
+
+names:
+  0: gun
