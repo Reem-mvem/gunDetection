@@ -94,7 +94,7 @@ from ultralytics import YOLO
 # for img in val_images:
 #     copy_pair(img, VAL_IMG, VAL_LBL)
 
-# print(f"✅ Done. Train: {len(train_images)}, Val: {len(val_images)}")
+# print(f" Done. Train: {len(train_images)}, Val: {len(val_images)}")
 
 
 
